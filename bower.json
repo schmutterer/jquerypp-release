@@ -1,0 +1,21 @@
+{
+    "name": "jquerypp",
+    "version": "1.0.1",
+    "dependencies": {
+        "jquery": "~1.8 || ~2"
+    },
+    "main": "jquerypp.js",
+    "homepage": "https://github.com/schmutterer/jquerypp-release",
+    "author": "Andreas Pieber<andreas.pieber@schmutterer-partner.at>",
+    "description": "Provider for the jquerypp project as bower distribution.",
+    "keywords": [
+        "jquery",
+        "jquerypp"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "bower.json",
+        "README.md",
+        "**/.*"
+    ]
+}
