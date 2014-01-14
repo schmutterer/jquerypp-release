@@ -1,7 +1,7 @@
 jquerypp-release
 ================
 
-Distribution of the jquerypp accessible and taged with bower.
+Distribution of the (jquerypp project)[http://jquerypp.com/] accessible and taged with bower.
 Basically it's just all versions taken from (here)[https://github.com/bitovi/jquerypp/tree/gh-pages/release/] and tagged with the correct version.
 In addition to the tags correct bower files are added making jquerypp easier useable.
 The fourth version number is just to make it possible for us making correcting minor releases without chaning the real logic.
